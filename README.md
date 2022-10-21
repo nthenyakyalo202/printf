@@ -1,12 +1,4 @@
-# printf team project
----
-> write your own printf 
-## Welcome
----
-A rebuild of the standard printf function in C. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
-## ALX
----
-In ALX school we rarely use the c standard library, instead we are advised to build our our function and header as we learn 
+
 
 ## Description
 ---
@@ -80,8 +72,8 @@ Integer: printf("%i", 5); Output: 5
 
 ## Authors
 ---
-- [Eunice Orina](https://github.com/Eunice603)
-- [Dennis Kinuthia](https://github.com/tigawanna)
+-Diana Kyalo
+Kennedy Mwiruri
 
 ## Acknowledgements
 ---
